@@ -1,0 +1,14 @@
+{
+  "agent" : {
+    "agencyName": "agency1",
+    "address1": "street apt/suite",
+    "city": "Kathmandu",
+    "state": "Bagmati",
+    "country": "Nepal",
+    "contact": "office, cellphone",
+    "email": "agency@gmail.com, agency1@gmail.com",
+    "managerName": "Abc xyz",
+    "password": "agency@1234",
+    "document": "document1.pdf, document1.jpg"
+  }
+}

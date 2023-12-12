@@ -1,0 +1,13 @@
+{
+
+    "name": "Test1",
+    "email": "test1@gmail.com",
+    "contact": "09868769797",
+    "address": {
+      "street": "440 lakeShore Dr",
+      "apt/suite(optional)": "2001",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pinCode": "123456"
+    }
+  }

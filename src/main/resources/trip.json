@@ -1,0 +1,48 @@
+{
+  "tripName" : "Nepal",
+  "tripLocation" : "Pokhara",
+  "description" : " Sight seeing in Pokhara",
+  "image" : "img1.jpg",
+  "package" : [
+
+    {
+      "packageName": "Pokhara with SarangKot",
+      "city": "Pokhara",
+      "description": "3 days 4 night",
+      "travelDays": "3",
+      "image" : "img2.png",
+      "itinerary": [
+        {
+          "desc": "Pickup from hotel",
+          "image" : "img.jpg",
+          "longDesc" : "",
+          "meals": "Breakfast , Lunch , Dinner"
+
+        },
+        {
+          "desc": "Pickup from hotel",
+          "image" : "img.jpg",
+          "longDesc" : "",
+          "meals": "Breakfast , Lunch , Dinner"
+        },
+        {
+          "desc": "Pickup from hotel",
+          "image" : "img.jpg",
+          "longDesc" : "",
+          "meals": "Breakfast , Lunch , Dinner"
+        }
+      ],
+      "inclusions": null,
+      "exclusions": null,
+      "cancellationPolicy": null,
+      "importantNotes": null,
+      "startDate": "20-04-2024",
+      "endDate": "20-08-2024",
+      "totalPackageCost": 12000,
+      "commisionPercent": 10,
+      "discountPercent": 5
+    }
+
+
+  ]
+}

@@ -1,0 +1,15 @@
+2023-09-15 15:39:19 INFO  VendorService:33 - saving vendor and cars...
+  2023-09-15 15:39:20 INFO  VendorService:56 - The vendor record saved successfully...
+  2023-09-15 15:39:40 INFO  VendorService:88 - list of cars by vendorName and vendorCity
+  2023-09-15 16:00:11 INFO  VendorService:33 - saving vendor and cars...
+  2023-09-15 16:00:11 INFO  VendorService:56 - The vendor record saved successfully...
+  2023-09-15 20:30:46 INFO  VendorService:35 - vendor object has been saved
+  2023-09-15 20:30:46 INFO  VendorService:35 - vendor object has been saved
+  2023-09-15 20:30:46 INFO  VendorService:35 - vendor object has been saved
+  2023-09-15 20:30:46 ERROR VendorService:70 - Error details ::Cannot invoke "com.weekytripstravelcrm.repository.CarRepository.findByCarNumber(String)" because "this.carRepository" is null
+  2023-09-15 20:34:08 INFO  VendorService:35 - vendor object has been saved
+  2023-09-15 20:34:08 INFO  VendorService:35 - vendor object has been saved
+  2023-09-15 20:37:29 INFO  VendorService:35 - vendor object has been saved
+  2023-09-15 20:39:10 INFO  VendorService:35 - vendor object has been saved
+  2023-09-15 20:39:10 INFO  VendorService:35 - vendor object has been saved
+  

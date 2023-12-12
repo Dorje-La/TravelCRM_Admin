@@ -1,0 +1,27 @@
+[
+  {
+    "vendorName": "XYZ",
+    "vendorAddress": "ABC",
+    "vendorContact": "2342342",
+    "vendorCity": "NewDelhi",
+    "carList": [
+      {
+        "carCategory": "SUV",
+        "carModel": "BMW",
+        "carNumber": "3452ASD",
+        "carPhotos": "img1.jpeg, img2.jpeg, img3.png",
+        "carRate": 10
+      },
+      {
+        "carCategory": "9 seater",
+        "carModel": "Honda",
+        "carNumber": "4564546",
+        "carPhotos": "img1.png, img2.jpeg, img3.png",
+        "carRate": 20
+      }
+    ],
+    "vendorBookingPolicy": "Booking should be done 10 days prior to Trip , Need identification card at the time start of trip",
+    "vendorCancellationPolicy": "Cancellation is allowed before 2 days without fees, 25 % charged if cancelled 48 hours before the trip"
+  }
+]
+

@@ -1,0 +1,46 @@
+{
+  "hotelName": "Hayet Hotel",
+  "hotelAddress": {
+    "streetName": "123 Main Street",
+    "city": "Kathmandu",
+    "state": "State",
+    "zip": "12345",
+    "country": "USA"
+  },
+  "emails": "info@examplehotel.com",
+  "contacts": "1234567890",
+  "managerName": "John Doe",
+  "images": "image-url.jpg",
+  "description": "A beautiful hotel with great amenities.",
+  "cancelationPolicy": "Cancellation is allowed 48 hours prior to check-in",
+  "hotelAmenities": [
+    {
+      "amenitiesName": "Swimming Pool",
+      "description": "A spacious outdoor swimming pool."
+    },
+    {
+      "amenitiesName": "Gym",
+      "description": "A fully-equipped fitness center."
+    }
+  ],
+  "propertyRule": [
+    {
+      "ruleTopics": "No smoking",
+      "description": "Smoking is prohibited in all indoor areas."
+    },
+    {
+      "ruleTopics": "No pets allowed",
+      "description": "Pets are not permitted in the hotel premises."
+    }
+  ],
+  "location": [
+    {
+      "locationName": "Downtown",
+      "distance": "2 miles"
+    },
+    {
+      "locationName": "Near Airport",
+      "distance": "5 miles"
+    }
+  ]
+}
